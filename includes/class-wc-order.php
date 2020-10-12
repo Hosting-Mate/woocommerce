@@ -224,7 +224,7 @@ class WC_Order extends WC_Abstract_Order {
 	}
 
 	/**
-	 * Log an error about this order is exception is encountered.
+	 * Log an error about this order if exception is encountered.
 	 *
 	 * @param Exception $e Exception object.
 	 * @param string    $message Message regarding exception thrown.
